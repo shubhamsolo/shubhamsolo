@@ -58,8 +58,7 @@
  
 </div>
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_mustafa_0203) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/_Mustafa)
+
 
 ###
 
@@ -71,4 +70,4 @@
 </picture>
 
 [![wakatime](https://wakatime.com/badge/user/018ba529-86aa-482f-afaf-27f57387e168.svg)](https://wakatime.com/@018ba529-86aa-482f-afaf-27f57387e168)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=B-Mustafa.B-Mustafa)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamsolo.shubhamsolo)
